@@ -98,7 +98,7 @@ export default function AboutMe() {
                   <div className="my-4">&rarr;</div>
                   <p className="relative overflow-hidden font-mono text-lg text-gray-500 dark:text-gray-300">
                     <div className="absolute h-0.5 w-full bg-gray-400 bottom-0 transform -translate-x-28 group-hover:translate-x-0 transition duration-300"></div>
-                    Instagram
+                    Twitter
                   </p>
                 </a>
               </div>
